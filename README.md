@@ -30,7 +30,7 @@ This script performs a sentiment analysis on X (formerly Twitter) data using a N
 3.  **Place your tweet data file (e.g., tweets.csv) in the project directory.**
 4.  **Run the script sentiment_analysis.py:**
     ```
-    Run the script sentiment_analysis.py:
+    Run the script sentiment_analysis.py
     ```
 
 ## Credits
